@@ -29,7 +29,7 @@ html {
 
 body {
   font-family: $font-primary;
-  color: $color-grey-light-2;
+  color: $color-grey-dark-1;
   font-weight: 300;
   line-height: 1.6;
 }
@@ -45,8 +45,8 @@ body {
       1fr
     ) [full-end];
 
-  & > * {
-    padding: 40px;
-    font-size: 3rem;
-  }
+//   & > * {
+//     padding: 40px;
+//     font-size: 3rem;
+//   }
 }
